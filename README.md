@@ -6,6 +6,7 @@ This a repository contains resources (courses, presentations, etc.) created by I
 
 - [IOG - Video Lectures](https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw)
 - [Plutus Best Practices](./plutus-best-practices/README.md)
+- [Marlowe Best Practices](https://github.com/input-output-hk/marlowe-cardano/blob/main/marlowe/best-practices.md) (Created by the Marlowe Team)
 
 ## Courses
 
