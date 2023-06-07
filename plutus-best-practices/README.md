@@ -1,7 +1,7 @@
 # Plutus and Smart Contract Best Practices (This is a WIP!)
 
 Guidelines to help you write secure, performant, and overall better Plutus smart contracts.
-(For [Marlowe](https://marlowe-finance.io/)'s best practices, you can go [here](https://github.com/input-output-hk/marlowe-cardano/blob/main/marlowe/best-practices.md).)
+(For [Marlowe](https://marlowe.iohk.io/)'s best practices, you can go [here](https://github.com/input-output-hk/marlowe-cardano/blob/main/marlowe/best-practices.md).)
 
 ## Objectives
 
