@@ -1,6 +1,6 @@
 # Education materials
 
-This a repository contains resources (courses, presentations, etc.) created by IOG's education team.
+This a repository contains resources (courses, presentations, etc.) created by the IOG Education team.
 
 ## Common resources
 
