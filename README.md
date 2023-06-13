@@ -1,8 +1,8 @@
-# Education materials
+# Education Materials
 
 This a repository that contains resources (courses, presentations, guides, etc.) created by the IOG Education team.
 
-## Common resources
+## Common Resources
 
 - [IOG - Video Lectures](https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw)
 - [Plutus Best Practices](./plutus-best-practices/README.md)
@@ -16,3 +16,21 @@ This a repository that contains resources (courses, presentations, guides, etc.)
 ## Hackathons
 
 - [Hackaton Organization Guide](./hackatons/organization-guide.md.html)
+
+## Meet the Education team
+
+| Name         | Role           |   
+| ------------- |:-------------:|
+| Lars Brünjes      | Director of Education |
+| Niamh Ahern     | Education Manager      |
+| Alejandro Garcia | Education Project Manager |
+| Karina Lopez      | Education Specialist |
+| Antonio Ibarra     | Education Specialist  |
+| Tuvshintsenguun Erdenejargall |Education Specialist  |
+| Robertino Martinez      | Education Assistant |
+| Thomas Vellekoop     | Education Assistant |
+| Alexey Sorokin |Education Assistant |
+| Luka Kurnjek |Education Assistant |
+| Arturo Mora |Education Assistant |
+
+
