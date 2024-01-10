@@ -28,7 +28,6 @@ This a repository that contains resources (courses, presentations, guides, etc.)
 | Antonio Ibarra     | Education Specialist  |
 | Tuvshintsenguun Erdenejargall |Education Specialist  |
 | Robertino Martinez      | Education Assistant |
-| Thomas Vellekoop     | Education Assistant |
 | Alexey Sorokin |Education Assistant |
 | Luka Kurnjek |Education Assistant |
 | Arturo Mora |Education Assistant |
